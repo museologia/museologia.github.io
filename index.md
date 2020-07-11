@@ -5,11 +5,7 @@ Texto da postagem.
 Texto da postagem.
 
 ### Título da postagem header 3
-Texto da postagem.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Exemplos de Markdown.
 
 ```markdown
 Syntax highlighted code block
