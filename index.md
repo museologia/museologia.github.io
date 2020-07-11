@@ -10,7 +10,7 @@ Exemplo de postagem.
 
 Outro exemplo de postagem.
 
-### Uma terceira postagem
+# Uma terceira postagem
 
 Uma nova postagem com lista:
 
