@@ -30,3 +30,7 @@ Uma tabela **importante**:
 E uma imagem:
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
+# Outros exemplos
+
+Outros exemplos de uso de Markdown disponíveis nesse [link](./exemplos)
