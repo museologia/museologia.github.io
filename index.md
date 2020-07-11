@@ -33,4 +33,4 @@ E uma imagem:
 
 # Outros exemplos
 
-Outros exemplos de uso de Markdown disponíveis nesse [link](./exemplos)
+Outros exemplos de uso de Markdown disponíveis nesse [link](./exemplos).
