@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    {% if site.google_analytics and (page.url != "/exemplos.html") %}
+    {% if site.google_analytics and (page.url not contains "/exemplos.html" or "/modelo.html") %}
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-173006101-1"></script>
     <script>
