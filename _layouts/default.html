@@ -4,17 +4,15 @@
     {% if page.url == "/exemplos.html" or page.url == "/modelo.html" %}
     <meta name="robots" content="nofollow, noindex">
     {% else %}
-      {% if site.google_analytics %}
-      <!-- Global site tag (gtag.js) - Google Analytics -->
-      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-173006101-1"></script>
-      <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-173006101-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
 
-        gtag('config', 'UA-173006101-1');
-      </script>
-      {% endif %}
+      gtag('config', 'UA-173006101-1');
+    </script>
     {% endif %}
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
