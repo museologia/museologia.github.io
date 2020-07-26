@@ -1,3 +1,0 @@
-# Rascunho teste
-
-## Outro
