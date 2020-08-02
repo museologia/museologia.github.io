@@ -4,6 +4,8 @@ layout: default
 
 # Primeira postagem
 
+Editar.
+
 Exemplo de postagem.
 
 # Outra postagem
