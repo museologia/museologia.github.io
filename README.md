@@ -1,1 +1,1 @@
-# [Portal da Museologia](http://www.museologia.mus.br)
+# [Portal da Museologia](http://www.museologia.mus.br){:target="_blank"}
