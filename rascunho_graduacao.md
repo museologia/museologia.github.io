@@ -138,7 +138,8 @@ layout: default
 - E-mail: cch_museologia@unirio.br
 - Rede social: -
 
-## Região Sul [Topo](#graduação)
+## Região Sul
+[Voltar ao topo](#graduação)
 
 ### Paraná
 
