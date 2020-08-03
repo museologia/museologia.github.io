@@ -14,7 +14,7 @@ layout: default
 - Cidade / Estado: Belém – PA
 - Ano de criação: 2009
 - Modalidade de ensino: Presencial
-- Site: http://www.ica.ufpa.br/index.php/pt/museologia{:target="_blank"}
+- Site: [http://www.ica.ufpa.br/index.php/pt/museologia](http://www.ica.ufpa.br/index.php/pt/museologia){:target="_blank"}
 - Telefone: (91) 3201-755
 - E-mail: cursodemuseologiaufpa@gmail.com 
 - Rede social: [Facebook](https://www.facebook.com/museologia.ufpa){:target="_blank"}
