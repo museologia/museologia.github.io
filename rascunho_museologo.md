@@ -3,10 +3,10 @@ layout: default
 ---
 
 # Quero ser museólogo(a)
-[Quem pode exercer a profissão de Museólogo(a)](#Quem-pode-exercer-a-profissão-de-Museólogo(a)) | [As atribuições do(a) profissional Museólogo(a)](#As-atribuições-do(a)-profissional-Museólogo(a)) | [Código de Ética Profissional do(a) Museólogo(a)](#Código-de-Ética-Profissional-do(a)-Museólogo(a))
+[Quem pode exercer a profissão de Museólogo(a)](#quem-pode-exercer-a-profissão-de-museólogo(a)) | [As atribuições do(a) profissional Museólogo(a)](#as-atribuições-do(a)-profissional-museólogo(a)) | [Código de Ética Profissional do(a) Museólogo(a)](#código-de-ética-profissional-do(a)-museólogo(a))
 
 ## Quem pode exercer a profissão de Museólogo(a)
-[Voltar ao topo](#Quero-ser-museólogo(a))
+[Voltar ao topo](#quero-ser-museólogo(a))
 
 A [Lei nº 7.287 de 18 de dezembro 1984](http://www.planalto.gov.br/ccivil_03/Leis/L7287.htm){:target="_blank"} regulamenta a profissão de Museólogo(a). Segundo esta lei, podem exercer a profissão:
 
@@ -22,7 +22,7 @@ IMPORTANTE:
 ```
 
 ## As atribuições do(a) profissional Museólogo(a)
-[Voltar ao topo](#Quero-ser-museólogo(a))
+[Voltar ao topo](#quero-ser-museólogo(a))
 
 Conforme a [Lei nº 7.287, de 18 de dezembro de 1984](http://www.planalto.gov.br/ccivil_03/Leis/L7287.htm){:target="_blank"}, que dispõe sobre a regulamentação da profissão, as atribuições do(a) profissional Museólogo(a) são as seguintes:
 
@@ -48,7 +48,7 @@ IMPORTANTE:
 ```
 
 ## Código de Ética Profissional do(a) Museólogo(a)
-[Voltar ao topo](#Quero-ser-museólogo(a))
+[Voltar ao topo](#quero-ser-museólogo(a))
 
 Aprovado em Sessão Plenária de 23 de dezembro 1992, no Rio de Janeiro, o [Código de Ética Profissional do(a) Museólogo(a)](http://cofem.org.br/legislacao_/codigo-de-etica/){:target="_blank"} tem o objetivo de *estabelecer a forma pela qual os(as) museólogos(as) devem pautar sua atuação*, indicando normas de conduta, regulando suas relações com a classe, com os poderes públicos, a sociedade e o público em particular.
 
