@@ -4,7 +4,7 @@ layout: default
 
 # Graduação
 
-[Sul](#região-sul) | [Sudeste](#região-sudeste)
+[Norte]() | [Nordeste]() | [Centro-Oeste]() | [Sudeste](#região-sudeste) | [Sul](#região-sul) | [Semi-Presencial]()
 
 ## Região Norte
 
