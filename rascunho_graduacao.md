@@ -4,7 +4,7 @@ layout: default
 
 # Graduação
 
-[Sul](#regiao-sul) | [Sudeste](#regiao-sudeste)
+[Sul](#região-sul) | [Sudeste](#região-sudeste)
 
 ## Região Norte
 
