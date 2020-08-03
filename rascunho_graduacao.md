@@ -4,6 +4,8 @@ layout: default
 
 # Graduação
 
+[Sul](#regiao-sul) | [Sudeste](#regiao-sudeste)
+
 ## Região Norte
 
 ### Pará
