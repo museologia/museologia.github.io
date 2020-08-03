@@ -81,10 +81,8 @@ layout: default
 - Cidade / Estado: Brasília – DF
 - Ano de criação: 2007
 - Modalidade de ensino: Presencial
-- Site: http://www.museologia.fci.unb.br/{:target="_blank"}
-- Telefone: (61) 3107-2635 / 3107-2634
-- E-mail: museologia@unb.br
-- Rede social: [Facebook](https://www.facebook.com/museologiadaunboficial/){:target="_blank"}, [YouTube](https://www.youtube.com/channel/UC3ARfb83PMm1wP81PQkYeYg){:target="_blank"}
+- Contatos: [Site](http://www.museologia.fci.unb.br){:target="_blank"}, [E-mail](mailto:museologia@unb.br){:target="_blank"}, [Facebook](https://www.facebook.com/museologiadaunboficial){:target="_blank"}, [YouTube](https://www.youtube.com/channel/UC3ARfb83PMm1wP81PQkYeYg){:target="_blank"}
+- Telefone: (61) 3107-2635, (61) 3107-2634
 
 ### Goiás
 
