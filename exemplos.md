@@ -56,11 +56,12 @@ end
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
-|       |       |
-|:------|:------|
-| teste | teste |
+###### Quadro sem Cabeçalho
 
-# Cabeçalho
+teste | teste
+teste | teste
+teste | teste
+teste | teste
 
 teste | teste
 teste | teste
