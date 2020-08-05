@@ -2,14 +2,14 @@
 layout: default
 ---
 
-# Sistema COFEM – COREMs
+# Sistema COFEM e COREMs
 
-[Conselho Federal de Museologia – COFEM](#Conselho-Federal-de-Museologia---COFEM) | [Conselhos Regionais de Museologia – COREMs](#Conselhos-Regionais-de-Museologia---COREMs) | [COREM 1R](#corem-1r) | [COREM 2R](#corem-2r) | [COREM 3R](#corem-3r) | [COREM 4R](#corem-4r) | [COREM 5R](#corem-5r)
+[Conselho Federal de Museologia (COFEM)](#Conselho-Federal-de-Museologia-(COFEM)) | [Conselhos Regionais de Museologia (COREMs)](#Conselhos-Regionais-de-Museologia-(COREMs)) | [COREM 1R](#corem-1r) | [COREM 2R](#corem-2r) | [COREM 3R](#corem-3r) | [COREM 4R](#corem-4r) | [COREM 5R](#corem-5r)
 
 Vinculados ao Ministério do Trabalho, os Conselhos são os *órgãos de registro do profissional Museólogo e de fiscalização do exercício da profissão*. O COFEM e os COREM's têm sua criação autorizada a partir da publicação da [Lei de Regulamentação da Profissão de Museólogo](http://www.planalto.gov.br/ccivil_03/Leis/L7287.htm){:target="_blank"}. 
 
-## Conselho Federal de Museologia – COFEM
-[Voltar ao topo](#sistema-cofem---corems)
+## Conselho Federal de Museologia (COFEM)
+[Voltar ao topo](#sistema-cofem-e-corems)
 
 Conforme previsto no [Decreto nº 91.775, de 15 de Outubro de 1985](https://www2.camara.leg.br/legin/fed/decret/1980-1987/decreto-91775-15-outubro-1985-441776-publicacaooriginal-1-pe.html){:target="_blank"}, que regulamenta a [Lei n° 7.287, de 18 de dezembro de 1984](http://www.planalto.gov.br/ccivil_03/Leis/L7287.htm){:target="_blank"}, que dispõe sobre a profissão de Museólogo e autoriza a criação do Conselho Federal e dos Conselhos Regionais de Museologia, o *Conselho Federal deve ter sede e foro em Brasília-DF e jurisdição em todo o território nacional*.
 
@@ -41,8 +41,8 @@ Compete ao COFEM, conforme o [Decreto nº 91.775, de 15 de Outubro de 1985](http
 - [Lista geral de empresas registradas](http://cofem.org.br/registro-e-cadastro/registro-de-empresas-e-escritorios-tecnicos/){:target="_blank"}
 - Contatos: [Site](http://cofem.org.br/){:target="_blank"}, [E-mail](mailto:cofem.museologia@gmail.com){:target="_blank"}, [E-mail ouvidoria](mailto:ouvidoria.cofem@gmail.com){:target="_blank"}, [Facebook](https://www.facebook.com/cofem.museologia){:target="_blank"}
 
-## Conselhos Regionais de Museologia – COREMs
-[Voltar ao topo](#sistema-cofem---corems)
+## Conselhos Regionais de Museologia (COREMs)
+[Voltar ao topo](#sistema-cofem-e-corems)
 
 Conforme previsto no [Decreto nº 91.775, de 15 de Outubro de 1985](https://www2.camara.leg.br/legin/fed/decret/1980-1987/decreto-91775-15-outubro-1985-441776-publicacaooriginal-1-pe.html){:target="_blank"}, que regulamenta a [Lei n° 7.287, de 18 de dezembro de 1984](http://www.planalto.gov.br/ccivil_03/Leis/L7287.htm){:target="_blank"}, que dispõe sobre a profissão de Museólogo e autoriza a criação do Conselho Federal e dos Conselhos Regionais de Museologia, os *Conselhos Regionais devem ter sede e foro nas capitais dos Estados e dos Territórios, bem assim no Distrito Federal*.
 
@@ -64,7 +64,7 @@ Compete aos Conselhos Regionais de Museologia (COREM's), conforme o [Decreto nº
 14. Arrecadar anuidades, multas, taxas e emolumentos e adotar todas as medidas destinadas à efetivação de sua receita, destacando e entregando ao Conselho Federal as importâncias referentes à sua participação legal.
 
 ### COREM 1R
-[Voltar ao topo](#sistema-cofem---corems)
+[Voltar ao topo](#sistema-cofem-e-corems)
 
 - Estados: AL, AM, AP, BA, CE, MA, PA, PB, PE, PI, RN, RR, SE
 - Regimento interno (não encontrado)
@@ -73,7 +73,7 @@ Compete aos Conselhos Regionais de Museologia (COREM's), conforme o [Decreto nº
 - Contatos: [Site](https://corem1r.org.br/){:target="_blank"}, [E-mail](mailto:corem1r@gmail.com){:target="_blank"}, [Facebook](https://www.facebook.com/corem1r/){:target="_blank"}, [Instagram](https://www.instagram.com/corem1r/){:target="_blank"}
 
 ### COREM 2R
-[Voltar ao topo](#sistema-cofem---corems)
+[Voltar ao topo](#sistema-cofem-e-corems)
 
 - Estados: ES, MG, RJ
 - [Regimento interno](https://corem2r.org/regimento-interno/){:target="_blank"}
@@ -82,7 +82,7 @@ Compete aos Conselhos Regionais de Museologia (COREM's), conforme o [Decreto nº
 - Contatos: [Site](https://corem2r.org/){:target="_blank"}, [E-mail](mailto:corem2r@gmail.com){:target="_blank"}, [Facebook](https://www.facebook.com/corem2r){:target="_blank"}, [Instagram](https://www.instagram.com/corem2r/){:target="_blank"}, [Twitter](https://twitter.com/corem2r){:target="_blank"}
 
 ### COREM 3R
-[Voltar ao topo](#sistema-cofem---corems)
+[Voltar ao topo](#sistema-cofem-e-corems)
 
 - Estado: RS
 - [Regimento interno](https://f2a6e72c-7264-486e-99fe-f12b6c21be24.filesusr.com/ugd/aa419d_67496622bd334595a6d3f3cdab942487.pdf){:target="_blank"}
@@ -91,7 +91,7 @@ Compete aos Conselhos Regionais de Museologia (COREM's), conforme o [Decreto nº
 - Contatos: [Site](https://www.corem3.org.br/){:target="_blank"}, [E-mail](mailto:corem3r@gmail.com){:target="_blank"}, [Facebook](https://www.facebook.com/corem3Rfanpage){:target="_blank"}, [Instagram](https://www.instagram.com/corem3r/){:target="_blank"}
 
 ### COREM 4R
-[Voltar ao topo](#sistema-cofem---corems)
+[Voltar ao topo](#sistema-cofem-e-corems)
 
 - Estados: AC, DF, GO, MS, MT, SP, RO, TO
 - [Regimento interno](http://www.museologo.org.br/acesso-a-informacao/institucional/){:target="_blank"}
@@ -100,7 +100,7 @@ Compete aos Conselhos Regionais de Museologia (COREM's), conforme o [Decreto nº
 - Contatos: [Site](http://www.museologo.org.br/){:target="_blank"}, [E-mail](mailto:corem4r@museologo.org.br){:target="_blank"}, [Facebook](https://www.facebook.com/corem4r){:target="_blank"}
 
 ### COREM 5R
-[Voltar ao topo](#sistema-cofem---corems)
+[Voltar ao topo](#sistema-cofem-e-corems)
 
 - Estados: PR, SC
 - Regimento interno (não encontrado)
