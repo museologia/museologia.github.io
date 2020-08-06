@@ -6,7 +6,7 @@ layout: default
 
 Os cursos listados a seguir, conforme previsto na [Lei de Regulamentação da Profissão de Museólogo](http://www.planalto.gov.br/ccivil_03/Leis/L7287.htm){:target="_blank"}, apesar de serem das áreas de Museus, Museologia e Patrimônio Cultural, não conferem [o direto de exercer a profissão de museólogo(a)](http://Quero ser museólogo(a)){:target="_blank"} e de possuir registro no [Sistema COFEM e COREMs](http://Sistema COFEM e COREMs){:target="_blank"}.
 
-## Pós-graduação lato sensu
+## Pós-graduação *lato sensu*
 
 | Nome do curso | Instituição | Modalidade | Estado |
 |:--------------|:------------|:----------:|:------:|
