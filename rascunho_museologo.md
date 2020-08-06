@@ -15,11 +15,11 @@ A [Lei nº 7.287 de 18 de dezembro 1984](http://www.planalto.gov.br/ccivil_03/Le
 - *Diplomados em Museologia por escolas estrangeiras* reconhecidas pelas leis do país de origem, *cujos títulos tenham sido revalidados no Brasil*, na forma da legislação;
 - *Diplomados em outros cursos de nível superior* que, *na data desta Lei*, contêm pelo menos 5 (cinco) anos de exercício de atividades técnicas de Museologia, devidamente comprovados. *Tal comprovação deverá ser feita no prazo de 3 (três) anos a contar da vigência desta Lei*, perante os Conselhos Regionais de Museologia (COREMs), aos quais compete decidir sobre a sua validade.
 
-```
-IMPORTANTE:
-- Para exercer a profissão de **maneira legal**, é preciso que o profissional, depois de estar devidamente diplomado, **registre-se no Conselho Regional de Museologia (COREM)** correspondente à sua região de atuação.
-- **Também devem ser registrados nos COREMs as empresas, entidades e escritórios que explorem, sob qualquer forma, atividades relativas à Museologia**, nos termos da Lei nº 7.287, de 18 de dezembro de 1984.
-```
+> IMPORTANTE:
+> 
+> - Para exercer a profissão de **maneira legal**, é preciso que o profissional, depois de estar devidamente diplomado, **registre-se no Conselho Regional de Museologia (COREM)** correspondente à sua região de atuação.
+>
+> - **Também devem ser registrados nos COREMs as empresas, entidades e escritórios que explorem, sob qualquer forma, atividades relativas à Museologia**, nos termos da Lei nº 7.287, de 18 de dezembro de 1984.
 
 ## As atribuições do profissional Museólogo
 [Voltar ao topo](#quero-ser-museólogo)
@@ -41,25 +41,23 @@ Conforme a [Lei nº 7.287, de 18 de dezembro de 1984](http://www.planalto.gov.br
 13. *Orientar, supervisionar e executar programas de treinamento, aperfeiçoamento e especialização de pessoa das áreas de Museologia e Museografia*, como atividades de extensão;
 14. *Orientar a realização de seminários, colóquios, concursos, exposições de âmbito nacional ou internacional, e de outras atividades de caráter museológico*, bem como nelas fazer-se representar.
 
-```
-IMPORTANTE:
-- Qualquer pessoa que *não* tenha formação em Museologia e esteja executando as atividades mencionadas está *infringindo a Lei nº 7.287, de 18 de dezembro de 1984*. O mesmo se aplica aos profissionais diplomados e que estejam exercendo a função *sem estar registrado em um Conselho Regional de Museologia (COREM)*.
-- Conforme o Estatuto de Museus (criado pela [Lei nº 11.904, de 14 de janeiro de 2009](http://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2009/Lei/L11904.htm){:target="_blank"}, e regulamentado pelo [Decreto nº 8.124, de 17 de outubro de 2013](http://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2013/Decreto/D8124.htm){:target="_blank"}), *"a elaboração de planos, programas e projetos museológicos, visando à criação, à fusão ou à manutenção dos museus, deve estar em consonância com a Lei nº 7.287, de 18 de dezembro de 1984"*.
-```
+> IMPORTANTE:
+>
+> - Qualquer pessoa que *não* tenha formação em Museologia e esteja executando as atividades mencionadas está *infringindo a Lei nº 7.287, de 18 de dezembro de 1984*. O mesmo se aplica aos profissionais diplomados e que estejam exercendo a função *sem estar registrado em um Conselho Regional de Museologia (COREM)*.
+>
+> - Conforme o Estatuto de Museus (criado pela [Lei nº 11.904, de 14 de janeiro de 2009](http://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2009/Lei/L11904.htm){:target="_blank"}, e regulamentado pelo [Decreto nº 8.124, de 17 de outubro de 2013](http://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2013/Decreto/D8124.htm){:target="_blank"}), *"a elaboração de planos, programas e projetos museológicos, visando à criação, à fusão ou à manutenção dos museus, deve estar em consonância com a Lei nº 7.287, de 18 de dezembro de 1984"*.
 
 ## Código de Ética Profissional do Museólogo
 [Voltar ao topo](#quero-ser-museólogo)
 
 Aprovado em Sessão Plenária de 23 de dezembro 1992, no Rio de Janeiro, o [Código de Ética Profissional do(a) Museólogo(a)](http://cofem.org.br/legislacao_/codigo-de-etica/){:target="_blank"} tem o objetivo de *estabelecer a forma pela qual os museólogos devem pautar sua atuação*, indicando normas de conduta, regulando suas relações com a classe, com os poderes públicos, a sociedade e o público em particular.
 
-```
-IMPORTANTE: A *transgressão* às normas estabelecidas no *Código de Ética Profissional do Museólogo* constitui *infração disciplinar*, sancionada, segundo a gravidade, com aplicação das seguintes penalidades:
-
-1. Advertência confidencial, em aviso reservado;
-2. Censura confidencial, em aviso reservado;
-3. Suspensão do registro profissional por prazo de 1 (um) ano;
-4. Cassação do registro profissional. 
-```
+> IMPORTANTE: A *transgressão* às normas estabelecidas no *Código de Ética Profissional do Museólogo* constitui *infração disciplinar*, sancionada, segundo a gravidade, com aplicação das seguintes penalidades:
+> 
+> 1. Advertência confidencial, em aviso reservado;
+> 2. Censura confidencial, em aviso reservado;
+> 3. Suspensão do registro profissional por prazo de 1 (um) ano;
+> 4. Cassação do registro profissional. 
 
 ### As competência do profissional, segundo o Código de Ética Profissional:
 
