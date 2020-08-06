@@ -3,7 +3,8 @@ layout: default
 ---
 
 # Quero ser Museólogo
-| [Quem pode exercer a profissão de Museólogo](#quem-pode-exercer-a-profissão-de-museólogo) | [As atribuições do profissional Museólogo](#as-atribuições-do-profissional-museólogo) | [Código de Ética Profissional do Museólogo](#código-de-ética-profissional-do-museólogo) |
+
+[Quem pode exercer a profissão de Museólogo](#quem-pode-exercer-a-profissão-de-museólogo) | [As atribuições do profissional Museólogo](#as-atribuições-do-profissional-museólogo) | [Código de Ética Profissional do Museólogo](#código-de-ética-profissional-do-museólogo)
 
 ## Quem pode exercer a profissão de Museólogo
 [Voltar ao topo](#quero-ser-museólogo)
