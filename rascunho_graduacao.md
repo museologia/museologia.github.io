@@ -11,15 +11,15 @@ layout: default
 
 ### Pará
 
-#### Universidade Federal do Pará – UFPA
-
-:**Nome do curso** | Museologia
-:**Grau** | Bacharelado
-:**Cidade / Estado** | Belém – PA
-:**Ano de criação** | 2009
-:**Modalidade de ensino** | Presencial
-:**Contatos** | [Site](http://www.ica.ufpa.br/index.php/pt/museologia){:target="_blank"}, [E-mail](mailto:cursodemuseologiaufpa@gmail.com){:target="_blank"}, [Facebook](https://www.facebook.com/museologia.ufpa){:target="_blank"}
-:**Telefone** | (91) 3201-755
+Universidade Federal do Pará – UFPA
+:-----|:------
+**Nome do curso** | Museologia
+**Grau** | Bacharelado
+**Cidade / Estado** | Belém – PA
+**Ano de criação** | 2009
+**Modalidade de ensino** | Presencial
+**Contatos** | [Site](http://www.ica.ufpa.br/index.php/pt/museologia){:target="_blank"}, [E-mail](mailto:cursodemuseologiaufpa@gmail.com){:target="_blank"}, [Facebook](https://www.facebook.com/museologia.ufpa){:target="_blank"}
+**Telefone** | (91) 3201-755
 
 ## Região Nordeste
 [Voltar ao topo](#graduação)
