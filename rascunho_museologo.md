@@ -13,7 +13,7 @@ Nesta página apresentamos informações sobre o Museólogo e o seu código de �
 
 A [Lei nº 7.287 de 18 de dezembro 1984](http://www.planalto.gov.br/ccivil_03/Leis/L7287.htm){:target="_blank"} regulamenta a profissão de Museólogo. Segundo esta lei, podem exercer a profissão:
 
-- *Diplomados em Bacharelado ou Licenciatura Plena* em Museologia, por cursos ou escolas reconhecidos pelo Ministério da Educação;
+- *Diplomados em Bacharelado ou Licenciatura Plena em Museologia*, por cursos ou escolas reconhecidos pelo Ministério da Educação;
 - *Diplomados em Mestrado e Doutorado em Museologia*, por cursos ou escolas devidamente reconhecidos pelo Ministério da Educação;
 - *Diplomados em Museologia por escolas estrangeiras* reconhecidas pelas leis do país de origem, *cujos títulos tenham sido revalidados no Brasil*, na forma da legislação;
 - *Diplomados em outros cursos de nível superior* que, *na data desta Lei*, contêm pelo menos 5 (cinco) anos de exercício de atividades técnicas de Museologia, devidamente comprovados. *Tal comprovação deverá ser feita no prazo de 3 (três) anos a contar da vigência desta Lei*, perante os Conselhos Regionais de Museologia (COREMs), aos quais compete decidir sobre a sua validade.
