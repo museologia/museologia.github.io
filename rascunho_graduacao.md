@@ -6,6 +6,8 @@ layout: default
 
 Nesta página apresentamos informações básicas sobre os cursos de graduação em Museologia do Brasil, organizados por região geográfica e Estado.
 
+Informações atualizadas em 9 de agosto de 2020.
+
 [Norte](#região-norte) | [Nordeste](#região-nordeste) | [Centro-Oeste](#região-centro-oeste) | [Sudeste](#região-sudeste) | [Sul](#região-sul) | [Semi Presencial](#semi-presencial)
 
 ## Região Norte
