@@ -4,6 +4,8 @@ layout: default
 
 # Graduação
 
+Nesta página apresentamos informações básicas sobre os cursos de graduação em Museologia do Brasil, organizados por região geográfica.
+
 [Norte](#região-norte) | [Nordeste](#região-nordeste) | [Centro-Oeste](#região-centro-oeste) | [Sudeste](#região-sudeste) | [Sul](#região-sul) | [Semi Presencial](#semi-presencial)
 
 ## Região Norte
@@ -13,13 +15,13 @@ layout: default
 
 #### Universidade Federal do Pará – UFPA
 
-**Nome do curso** | Museologia
-**Grau** | Bacharelado
-**Cidade / Estado** | Belém – PA
-**Ano de criação** | 2009
-**Modalidade de ensino** | Presencial
-**Contatos** | [Site](http://www.ica.ufpa.br/index.php/pt/museologia){:target="_blank"}, [E-mail](mailto:cursodemuseologiaufpa@gmail.com){:target="_blank"}, [Facebook](https://www.facebook.com/museologia.ufpa){:target="_blank"}
-**Telefone** | (91) 3201-755
+- Nome do curso: Museologia
+- Grau: Bacharelado
+- Cidade / Estado: Belém – PA
+- Ano de criação: 2009
+- Modalidade de ensino: Presencial
+- Contatos: [Site](http://www.ica.ufpa.br/index.php/pt/museologia){:target="_blank"}, [E-mail](mailto:cursodemuseologiaufpa@gmail.com){:target="_blank"}, [Facebook](https://www.facebook.com/museologia.ufpa){:target="_blank"}
+- Telefone: (91) 3201-755
 
 ## Região Nordeste
 [Voltar ao topo](#graduação)
