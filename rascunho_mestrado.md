@@ -4,6 +4,8 @@ layout: default
 
 # Mestrado
 
+Nesta página apresentamos informações básicas sobre os cursos de Mestrado em Museologia do Brasil, organizados por região geográfica.
+
 [Norte](#região-norte) | [Nordeste](#região-nordeste) | [Centro-Oeste](#região-centro-oeste) | [Sudeste](#região-sudeste) | [Sul](#região-sul)
 
 ## Região Norte
