@@ -33,7 +33,7 @@ Sem cursos.
 #### Universidade Federal do Estado do Rio de Janeiro – UNIRIO
 - Nome do programa: Programa de Pós-Graduação em Museologia e Patrimônio – PPG-PMUS
 - Nível: Doutorado
-- Cidade: Rio de Janeiro – RJ
+- Cidade: Rio de Janeiro
 - Ano de criação: 2010
 - Modalidade de ensino: Presencial
 - Contatos: [Site](http://www.unirio.br/ppg-pmus/){:target="_blank"}, [E-mail](mailto:coordenacaoppgpmus@unirio.br){:target="_blank"}, [Facebook](https://www.facebook.com/ppgpmus/){:target="_blank"}
