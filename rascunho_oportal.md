@@ -37,17 +37,11 @@ Museólogos(as) e estudantes de Museologia encontrarão, entre outros conteúdos
 
 Idealizadora e fundadora do Portal da Museologia, é a principal responsável por produzir e organizar os conteúdos do Portal.
 
-Museóloga graduada pela UNIRIO, mestre em História, Território e Recursos Patrimoniais pela Universidade de Vigo (Espanha) e doutora em Museologia e Patrimônio pelo PPG-PMUS UNIRIO/MAST.
+Museóloga graduada pela UNIRIO, mestra em História, Território e Recursos Patrimoniais pela Universidade de Vigo (Espanha) e doutora em Museologia e Patrimônio pelo PPG-PMUS UNIRIO/MAST.
 
 Desde 2015 é servidora pública da Universidade Federal do Paraná (UFPR), ocupando o cargo de Técnica Administrativa em Educação – Museóloga. Atuou no Centro de Estudos e Pesquisa Arqueológicas da UFPR (CEPA) entre 2015 e 2020, quando então passou a atuar no Museu de Arte da UFPR (MusA).
 
-[Currículo Lattes](http://lattes.cnpq.br/5109594944416089){:target="_blank"}
-
-[LinkedIn](https://www.linkedin.com/in/mariana-novaes-157920180/){:target="_blank"}
-
-[ResearchGate](https://www.researchgate.net/profile/Mariana_Novaes){:target="_blank"}
-
-[Academia.edu](https://ufpr.academia.edu/MarianaNovaes){:target="_blank"}
+Mais informações aqui: [Currículo Lattes](http://lattes.cnpq.br/5109594944416089){:target="_blank"}, [LinkedIn](https://www.linkedin.com/in/mariana-novaes-157920180/){:target="_blank"}, [ResearchGate](https://www.researchgate.net/profile/Mariana_Novaes){:target="_blank"}, [Academia.edu](https://ufpr.academia.edu/MarianaNovaes){:target="_blank"}
 
 
 ### Fernando Ferreira de França
@@ -59,13 +53,7 @@ Engenheiro Eletricista pela Universidade Estácio de Sá, especialista em Sistem
 
 Desde 2000 atua como Engenheiro de Software.
 
-[Currículo Lattes]
-
-[LinkedIn]
-
-[ResearchGate]
-
-[Academia.edu]
+Mais informações aqui:
 
 ## Contatos
 [Voltar ao topo](#o-portal)
