@@ -4,6 +4,10 @@ layout: default
 
 # Doutorado
 
+Nesta página apresentamos informações básicas sobre os cursos de Doutorado em Museologia do Brasil, organizados por região geográfica e Estado.
+
+Informações atualizadas em 9 de agosto de 2020.
+
 [Norte](#região-norte) | [Nordeste](#região-nordeste) | [Centro-Oeste](#região-centro-oeste) | [Sudeste](#região-sudeste) | [Sul](#região-sul)
 
 ## Região Norte
@@ -29,7 +33,7 @@ Sem cursos.
 #### Universidade Federal do Estado do Rio de Janeiro – UNIRIO
 - Nome do programa: Programa de Pós-Graduação em Museologia e Patrimônio – PPG-PMUS
 - Nível: Doutorado
-- Cidade / Estado: Rio de Janeiro – RJ
+- Cidade: Rio de Janeiro – RJ
 - Ano de criação: 2010
 - Modalidade de ensino: Presencial
 - Contatos: [Site](http://www.unirio.br/ppg-pmus/){:target="_blank"}, [E-mail](mailto:coordenacaoppgpmus@unirio.br){:target="_blank"}, [Facebook](https://www.facebook.com/ppgpmus/){:target="_blank"}
