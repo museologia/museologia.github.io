@@ -12,13 +12,14 @@ layout: default
 ### Pará
 
 #### Universidade Federal do Pará – UFPA
-- Nome do curso: Museologia
-- Grau: Bacharelado
-- Cidade / Estado: Belém – PA
-- Ano de criação: 2009
-- Modalidade de ensino: Presencial
-- Contatos: [Site](http://www.ica.ufpa.br/index.php/pt/museologia){:target="_blank"}, [E-mail](mailto:cursodemuseologiaufpa@gmail.com){:target="_blank"}, [Facebook](https://www.facebook.com/museologia.ufpa){:target="_blank"}
-- Telefone: (91) 3201-755
+
+Nome do curso | Museologia
+Grau | Bacharelado
+Cidade / Estado | Belém – PA
+Ano de criação | 2009
+Modalidade de ensino | Presencial
+Contatos | [Site](http://www.ica.ufpa.br/index.php/pt/museologia){:target="_blank"}, [E-mail](mailto:cursodemuseologiaufpa@gmail.com){:target="_blank"}, [Facebook](https://www.facebook.com/museologia.ufpa){:target="_blank"}
+Telefone | (91) 3201-755
 
 ## Região Nordeste
 [Voltar ao topo](#graduação)
@@ -65,7 +66,7 @@ layout: default
 - Contatos: [Site](http://laranjeiras.ufs.br/pagina/20247-museologia){:target="_blank"}, [E-mail](mailto:museologia.campuslar@gmail.com){:target="_blank"}, [Instagram](https://www.instagram.com/museologiaufs/){:target="_blank"}
 - Telefone: (79) 3194-7183
 
-## Região Centro Oeste
+## Região Centro-Oeste
 [Voltar ao topo](#graduação)
 
 ### Distrito Federal
