@@ -11,8 +11,8 @@ layout: default
 
 ### Pará
 
-Universidade Federal do Pará – UFPA
-:-----|:------
+#### Universidade Federal do Pará – UFPA
+
 **Nome do curso** | Museologia
 **Grau** | Bacharelado
 **Cidade / Estado** | Belém – PA
