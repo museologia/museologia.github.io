@@ -96,7 +96,7 @@ layout: default
 
 ### Minas Gerais
 
-#### Instituição de ensino: Universidade Federal de Minas Gerais – UFMG
+#### Universidade Federal de Minas Gerais – UFMG
 - Nome do curso: Museologia
 - Grau: Bacharelado
 - Cidade / Estado: Belo Horizonte – MG
