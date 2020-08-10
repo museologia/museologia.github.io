@@ -37,7 +37,7 @@ Conforme a [Lei nº 7.287, de 18 de dezembro de 1984](http://www.planalto.gov.br
 6. Planejar e executar serviços de *identificação, classificação e cadastramento de bens culturais*;
 7. Promover estudos e pesquisas sobre acervos museológicos;
 8. Definir o espaço museológico adequado a apresentação e guarda das coleções;
-9. Informar os órgãos competentes sobre o deslocamento irregular de bens culturais, dentro do País ou para o exterior;
+9. Informar os órgãos competentes sobre o deslocamento irregular de bens culturais, dentro do país ou para o exterior;
 10. Dirigir, chefiar e administrar os *setores técnicos de museologia nas instituições* governamentais da Administração Direta e Indireta, bem como em órgãos particulares de idêntica finalidade;
 11. Prestar serviços de consultoria e assessoria na *área de museologia*;
 12. Realizar perícias destinadas a apurar o valor histórico, artístico ou científico de bens museológicos, bem como sua autenticidade;
@@ -55,7 +55,9 @@ Conforme a [Lei nº 7.287, de 18 de dezembro de 1984](http://www.planalto.gov.br
 
 Aprovado em Sessão Plenária de 23 de dezembro 1992, no Rio de Janeiro, o [Código de Ética Profissional do(a) Museólogo(a)](http://cofem.org.br/legislacao_/codigo-de-etica/){:target="_blank"} tem o objetivo de *estabelecer a forma pela qual os museólogos devem pautar sua atuação*, indicando normas de conduta, regulando suas relações com a classe, com os poderes públicos, a sociedade e o público em particular.
 
-> IMPORTANTE: A *transgressão* às normas estabelecidas no *Código de Ética Profissional do Museólogo* constitui *infração disciplinar*, sancionada, segundo a gravidade, com aplicação das seguintes penalidades:
+> IMPORTANTE: 
+>
+> A *transgressão* às normas estabelecidas no *Código de Ética Profissional do Museólogo* constitui *infração disciplinar*, sancionada, segundo a gravidade, com aplicação das seguintes penalidades:
 > 
 > 1. Advertência confidencial, em aviso reservado;
 > 2. Censura confidencial, em aviso reservado;
