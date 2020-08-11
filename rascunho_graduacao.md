@@ -92,7 +92,7 @@ Informações atualizadas em 9 de agosto de 2020.
 - Cidade: Goiânia
 - Ano de criação: 2010
 - Modalidade de ensino: Presencial
-- Contatos: [Site](https://www.cienciassociais.ufg.br/p/3863-institucional-museologia){:target="_blank"}, [E-mail](mailto:museologiafcsufg@gmail.com){:target="_blank"}
+- Contatos: [Site](https://www.cienciassociais.ufg.br/p/3863-institucional-museologia){:target="_blank"}, [E-mail](mailto:museologiafcsufg@gmail.com){:target="_blank"}, [Instagram](https://www.instagram.com/museologia.ufg/){:target="_blank"}
 - Telefone: (62) 3521-1128
 
 ## Região Sudeste
