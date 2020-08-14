@@ -37,11 +37,15 @@ Museólogos(as) e estudantes de Museologia encontrarão, entre outros conteúdos
 
 Idealizadora e fundadora do Portal da Museologia, é a principal responsável por produzir e organizar os conteúdos do Portal.
 
-Museóloga graduada pela UNIRIO, mestra em História, Território e Recursos Patrimoniais pela Universidade de Vigo (Espanha) e doutora em Museologia e Patrimônio pelo PPG-PMUS UNIRIO/MAST.
+Bacharel em Museologia pela UNIRIO, mestra em História, Território e Recursos Patrimoniais pela Universidade de Vigo (Espanha) e doutora em Museologia e Patrimônio pelo PPG-PMUS UNIRIO/MAST.
+
+Bacharel em Museologia pela UNIRIO; Mestra em História, Território e Recursos Patrimoniais pela Universidade de Vigo (Espanha); Doutora em Museologia e Patrimônio pela UNIRIO. Museóloga da Universidade Federal do Paraná (UFPR) atuando no Centro de Estudos e Pesquisas Arqueológicas da UFPR (CEPA) entre 2015 e 2020; atualmente atua no Museu de Arte da UFPR (MusA). 
 
 Foi colaboradora do _blog_ Concursos Museologia entre 2012 e 2017.
 
-Desde 2015 é servidora pública da Universidade Federal do Paraná (UFPR), ocupando o cargo de Técnica Administrativa em Educação – Museóloga. Atuou no Centro de Estudos e Pesquisa Arqueológicas da UFPR (CEPA) entre 2015 e 2020, quando então passou a atuar no Museu de Arte da UFPR (MusA).
+Desde 2015 é Museóloga da Universidade Federal do Paraná (UFPR) atuando no Centro de Estudos e Pesquisas Arqueológicas da UFPR (CEPA) até janeiro de 2020; atualmente atua no Museu de Arte da UFPR (MusA).
+
+Áreas de atuação profissional e acadêmica: Museologia; Patrimônio Científico; Patrimônio Universitário; Museus Universitários; Coleções Científicas.
 
 Mais informações aqui: [Currículo Lattes](http://lattes.cnpq.br/5109594944416089){:target="_blank"}, [LinkedIn](https://www.linkedin.com/in/mariana-novaes-157920180/){:target="_blank"}, [ResearchGate](https://www.researchgate.net/profile/Mariana_Novaes){:target="_blank"}, [Academia.edu](https://ufpr.academia.edu/MarianaNovaes){:target="_blank"}
 
