@@ -39,7 +39,7 @@ Compete ao COFEM, conforme o [Decreto nº 91.775, de 15 de Outubro de 1985](http
 - [Regimento interno](http://cofem.org.br/legislacao_/regimento-interno/){:target="_blank"}
 - [Lista geral de profissionais registrados(as)](http://cofem.org.br/registro-e-cadastro/cadastro-de-atividades/){:target="_blank"}
 - [Lista geral de empresas registradas](http://cofem.org.br/registro-e-cadastro/registro-de-empresas-e-escritorios-tecnicos/){:target="_blank"}
-- Contatos: [Site](http://cofem.org.br/){:target="_blank"}, [E-mail](mailto:cofem.museologia@gmail.com){:target="_blank"}, [E-mail ouvidoria](mailto:ouvidoria.cofem@gmail.com){:target="_blank"}, [Facebook](https://www.facebook.com/cofem.museologia){:target="_blank"}
+- Contatos: [Site](http://cofem.org.br/){:target="_blank"}, [E-mail](mailto:cofem.museologia@gmail.com){:target="_blank"}, [E-mail ouvidoria](mailto:ouvidoria.cofem@gmail.com){:target="_blank"}, [E-mail presidência](mailto:presidencia.cofem@gmail.com){:target="_blank"}, [E-mail vice presidência](mailto:vicepresidencia.cofem@gmail.com){:target="_blank"}, [E-mail secretaria](mailto:secretaria.cofem@gmail.com){:target="_blank"}, [E-mail tesouraria](mailto:tesouraria.cofem@gmail.com){:target="_blank"}, [Facebook](https://www.facebook.com/cofem.museologia){:target="_blank"}
 
 ## Conselhos Regionais de Museologia (COREMs)
 [Voltar ao topo](#sistema-cofem-e-corems)
@@ -70,7 +70,7 @@ Compete aos Conselhos Regionais de Museologia (COREM's), conforme o [Decreto nº
 - Regimento interno (não encontrado)
 - Lista de profissionais registrados (não encontrada)
 - Lista de empresas registradas (não encontrada)
-- Contatos: [Site](https://corem1r.org.br/){:target="_blank"}, [E-mail](mailto:corem1r@gmail.com){:target="_blank"}, [Facebook](https://www.facebook.com/corem1r/){:target="_blank"}, [Instagram](https://www.instagram.com/corem1r/){:target="_blank"}
+- Contatos: [Site](https://corem1r.org.br/){:target="_blank"}, [E-mail presidência](mailto:corem1r@gmail.com){:target="_blank"}, [E-mail secretaria](mailto:secretariacorem1r@gmail.com){:target="_blank"}, [E-mail tesouraria](mailto:tesourariacorem1r@gmail.com){:target="_blank"}, [E-mail comunicação](mailto:comunicacorem@gmail.com){:target="_blank"},  [Facebook](https://www.facebook.com/corem1r/){:target="_blank"}, [Instagram](https://www.instagram.com/corem1r/){:target="_blank"}
 
 ### COREM 2R
 [Voltar ao topo](#sistema-cofem-e-corems)
