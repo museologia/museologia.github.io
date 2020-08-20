@@ -106,4 +106,4 @@ Compete aos Conselhos Regionais de Museologia (COREM's), conforme o [Decreto nº
 - Regimento interno (não encontrado)
 - [Lista de profissionais registrados](https://corem5regiao.blogspot.com/2020/02/registros-pf-e-pj-2020.html){:target="_blank"}
 - [Lista de empresas registradas](https://corem5regiao.blogspot.com/2020/02/registros-pf-e-pj-2020_17.html){:target="_blank"}
-- Contatos: [Site](https://corem5regiao.blogspot.com/), [E-mail](mailto:corem5r@gmail.com){:target="_blank"}
+- Contatos: [Site](https://corem5regiao.blogspot.com/), [E-mail](mailto:corem5r@gmail.com){:target="_blank"}, [E-mail tesouraria](mailto:tesourariacorem5r@gmail.com){:target="_blank"}
