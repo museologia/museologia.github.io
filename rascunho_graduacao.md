@@ -6,7 +6,7 @@ layout: default
 
 Nesta página apresentamos informações básicas sobre os cursos de graduação em Museologia do Brasil, organizados por região geográfica e Estado.
 
-Informações atualizadas em 9 de agosto de 2020.
+Informações atualizadas em 20 de agosto de 2020.
 
 [Norte](#região-norte) | [Nordeste](#região-nordeste) | [Centro-Oeste](#região-centro-oeste) | [Sudeste](#região-sudeste) | [Sul](#região-sul) | [Semi Presencial](#semi-presencial)
 
@@ -160,7 +160,7 @@ Informações atualizadas em 9 de agosto de 2020.
 - Cidade: Porto Alegre
 - Ano de criação: 2008
 - Modalidade de ensino: Presencial
-- Contatos: [Site](http://www.ufrgs.br/fabico/graduacao/museologia){:target="_blank"}, [E-mail](mailto:museologia@ufrgs.br){:target="_blank"}
+- Contatos: [Site](http://www.ufrgs.br/fabico/graduacao/museologia){:target="_blank"}, [E-mail](mailto:museologia@ufrgs.br){:target="_blank"}, [YouTube](https://www.youtube.com/channel/UCSlTuZmHTX-XOWOzW-ZoNSw){:target="_blank"}
 - Telefone: (51) 3308-5105
 
 ### Santa Catarina
