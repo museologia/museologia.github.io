@@ -4,7 +4,7 @@ layout: default
 
 # O Portal
 
-[Histórico](#histórico) | [Objetivo](#objetivo) | [Quem cuida do Portal](#quem-cuida-do-portal) | [Contatos](#contatos)
+[Histórico](#histórico) | [Objetivos](#objetivos) | [Quem cuida do Portal](#quem-cuida-do-portal) | [Contatos](#contatos)
 
 ## Histórico
 [Voltar ao topo](#o-portal)
@@ -17,7 +17,7 @@ Devido ao sucesso e à importância que o _blog_ ganhou entre os(as) museólogos
 
 Assim nasceu o Portal da Museologia: um espaço em que colegas poderão encontrar uma série de informações de interesse para a nossa profissão, mas não só isso. No Portal da Museologia será possível que os(as) colegas contribuam com conteúdos, ou seja, os(as) museólogos(as) encontrarão um espaço para se expressar e escrever sobre suas experiências e reflexões profissionais. Aqui, os(as) museólogos(as) poderão ter voz ativa.
 
-## Objetivo
+## Objetivos
 [Voltar ao topo](#o-portal)
 
 O principal objetivo do Portal da Museologia é ser um espaço para concentrar informações de interesse dos(as) profissionais museólogos(as) do Brasil, visando fortalecer e valorizar nossa profissão.
