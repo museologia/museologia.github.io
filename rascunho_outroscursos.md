@@ -9,7 +9,7 @@ Os cursos listados a seguir, conforme previsto na [Lei de Regulamentação da Pr
 ## Pós-graduação *lato sensu*
 
 | Nome do curso | Instituição | Modalidade | Estado |
-|:--------------|:------------|:-----------|:-------|
+|:--------------|:------------|:----------:|:------:|
 | [Arte, História e Educação nos Museus de São Paulo: a Cultura em Movimento](http://www.facab.edu.br/a-cultura-em-movimento/){:target="_blank"} | Faculdade Casa Branca – FACAB | Presencial | SP |
 | [Arte, História e Educação nos Museus: a Cultura em Movimento](https://fauesp.com.br/presencial/){:target="_blank"} | Faculdade Unificada do Estado de São Paulo – FAUESP | Presencial | SP |
 | [Arte: Crítica e Curadoria](https://www.pucsp.br/pos-graduacao/especializacao-e-mba/arte-critica-e-curadoria){:target="_blank"} | Pontifícia Universidade Católica de São Paulo – PUCSP | Presencial | SP | 
