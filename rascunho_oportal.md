@@ -4,7 +4,7 @@ layout: default
 
 # O Portal
 
-[Histórico](#histórico) | [Objetivo](#objetivo) | [Quem cuida do Portal](#Quem-cuida-do-Portal) | [Contatos](#contatos)
+[Histórico](#histórico) | [Objetivo](#objetivo) | [Quem cuida do Portal](#quem-cuida-do-portal) | [Contatos](#contatos)
 
 ## Histórico
 [Voltar ao topo](#o-portal)
