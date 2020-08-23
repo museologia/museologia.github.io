@@ -4,7 +4,7 @@ layout: default
 
 # Termos de Uso
 
-Esta seção traz informações sobre os termos de uso do conteúdo publicado no Portal da Museologia. Ao acessar e navegar pelo conteúdo do site, você está concordando integralmente com os termos aqui expostos.
+Esta seção traz informações sobre os termos de uso do conteúdo publicado no Portal da Museologia. Ao acessar e navegar pelo nosso site, você está concordando integralmente com os termos aqui expostos.
 
 O conteúdo aqui publicado é de responsabilidade de seus mantenedores, entretanto, *links* para sites de terceiros são de responsabilidade de seus respectivos responsáveis.
 
