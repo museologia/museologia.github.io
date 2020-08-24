@@ -4,6 +4,8 @@ layout: default
 
 # Termos de Uso
 
+_Publicado em 23 de Agosto de 2020, por Fernando França._
+
 Esta seção traz informações sobre os termos de uso do conteúdo publicado no Portal da Museologia. Ao acessar e navegar pelo nosso site você está concordando integralmente com os termos aqui expostos.
 
 O conteúdo aqui publicado é de responsabilidade de seus [mantenedores](/oportal), entretanto, *links* para sites de terceiros são de responsabilidade de seus respectivos mantenedores.
