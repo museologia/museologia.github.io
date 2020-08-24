@@ -4,7 +4,7 @@ layout: default
 
 # Título da página ou postagem
 
-_Publicado em dia de mês de ano, por Autor._
+_[Publicado ou Atualizado] em dia de mês de ano, por Autor._
 
 Exemplo de postagem.
 
