@@ -4,6 +4,8 @@ layout: default
 
 # Quero ser Museólogo
 
+_Publicado em dia de Mês de ano, por Autor._
+
 Nesta página apresentamos informações sobre o Museólogo e o seu código de ética profissional.
 
 [Quem pode exercer a profissão de Museólogo](#quem-pode-exercer-a-profissão-de-museólogo) | [As atribuições do profissional Museólogo](#as-atribuições-do-profissional-museólogo) | [Código de Ética Profissional do Museólogo](#código-de-ética-profissional-do-museólogo)
