@@ -34,9 +34,7 @@ Museólogos(as) e estudantes de Museologia encontrarão, entre outros conteúdos
 ## Quem cuida do Portal
 [Voltar ao topo](#o-portal)
 
-### Mariana Gonzalez Leandro Novaes (COREM 5R 102-I)
-[FOTO]
-
+### Mariana Novaes (COREM 5R 102-I)
 Idealizadora e fundadora do Portal da Museologia, é a principal responsável por produzir e organizar os conteúdos do Portal.
 
 É Bacharel em Museologia pela UNIRIO; Mestra em História, Território e Recursos Patrimoniais pela Universidade de Vigo (Espanha); Doutora em Museologia e Patrimônio pela UNIRIO. Desde 2015 é museóloga da Universidade Federal do Paraná (UFPR) atuando no Centro de Estudos e Pesquisas Arqueológicas da UFPR (CEPA) até janeiro de 2020; atualmente atua no Museu de Arte da UFPR (MusA).
@@ -45,16 +43,14 @@ Foi colaboradora do _blog_ Concursos Museologia entre 2012 e 2017.
 
 Áreas de atuação profissional e acadêmica: Museologia; Patrimônio Científico; Patrimônio Universitário; Museus Universitários; Coleções Científicas.
 
-Mais informações aqui: [Currículo Lattes](http://lattes.cnpq.br/5109594944416089){:target="_blank"}, [LinkedIn](https://www.linkedin.com/in/mariana-novaes-157920180/){:target="_blank"}, [ResearchGate](https://www.researchgate.net/profile/Mariana_Novaes){:target="_blank"}, [Academia.edu](https://ufpr.academia.edu/MarianaNovaes){:target="_blank"}
+Mais informações: [Currículo Lattes](http://lattes.cnpq.br/5109594944416089){:target="_blank"}, [LinkedIn](https://www.linkedin.com/in/mariana-novaes-157920180/){:target="_blank"}, [ResearchGate](https://www.researchgate.net/profile/Mariana_Novaes){:target="_blank"}, [Academia.edu](https://ufpr.academia.edu/MarianaNovaes){:target="_blank"}.
 
 ### Fernando França (フランサ)
-[FOTO]
-
 Co-fundador do Portal da Museologia, é o responsável pela operação técnica do Portal.
 
 Engenheiro eletricista, entusiasta da tecnologia e guitarrista de jazz com influências na música Brasileira.
 
-Mais informações aqui: [Currículo Lattes](http://lattes.cnpq.br/3871219467239903){:target="_blank"}, [LinkedIn](https://www.linkedin.com/in/furansa){:target="_blank"}
+Mais informações: [Currículo Lattes](http://lattes.cnpq.br/3871219467239903){:target="_blank"}, [LinkedIn](https://www.linkedin.com/in/furansa){:target="_blank"}.
 
 ## Contatos
 [Voltar ao topo](#o-portal)
