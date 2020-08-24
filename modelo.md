@@ -31,7 +31,7 @@ Uma tabela **importante**:
 
 E uma imagem:
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Post](/assets/images/post_inauguracao.jpg)
 
 # Outros exemplos
 
