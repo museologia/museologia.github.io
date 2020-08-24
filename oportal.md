@@ -4,12 +4,12 @@ layout: default
 
 # O Portal
 
+_Publicado em 23 de Agosto de 2020, por Mariana Novaes._
+
 [Histórico](#histórico) | [Objetivos](#objetivos) | [Quem cuida do Portal](#quem-cuida-do-portal) | [Contatos](#contatos)
 
 ## Histórico
 [Voltar ao topo](#o-portal)
-
-_Texto elaborado por Mariana Novaes:_
 
 O Portal do Museologia é um projeto antigo.
 
