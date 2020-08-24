@@ -47,16 +47,14 @@ Foi colaboradora do _blog_ Concursos Museologia entre 2012 e 2017.
 
 Mais informações aqui: [Currículo Lattes](http://lattes.cnpq.br/5109594944416089){:target="_blank"}, [LinkedIn](https://www.linkedin.com/in/mariana-novaes-157920180/){:target="_blank"}, [ResearchGate](https://www.researchgate.net/profile/Mariana_Novaes){:target="_blank"}, [Academia.edu](https://ufpr.academia.edu/MarianaNovaes){:target="_blank"}
 
-### Fernando Ferreira de França
+### Fernando França (フランサ)
 [FOTO]
 
-Co-fundador do Portal da Museologia, é o responsável pela operacionalidade técnica do Portal.
+Co-fundador do Portal da Museologia, é o responsável pela operação técnica do Portal.
 
-Engenheiro Eletricista pela Universidade Estácio de Sá, especialista em Sistemas Embarcados Automotivos pela UTFPR, cursando especialização em Inteligência Artificial pela PUC-MG e mestrando em Engenharia de Software pela Universidade de Coimbra (Portugal). 
+Engenheiro eletricista, entusiasta da tecnologia e guitarrista de jazz com influências na música Brasileira.
 
-Desde 2000 atua como Engenheiro de Software.
-
-Mais informações aqui: ----
+Mais informações aqui: [Currículo Lattes](http://lattes.cnpq.br/3871219467239903){:target="_blank"}, [LinkedIn](https://www.linkedin.com/in/furansa){:target="_blank"}
 
 ## Contatos
 [Voltar ao topo](#o-portal)
