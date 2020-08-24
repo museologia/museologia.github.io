@@ -4,7 +4,7 @@ layout: default
 
 # Nasce o Portal da Museologia
 
-_Publicado em 23 de agosto de 2020, por Mariana Novaes:_
+_Publicado em 23 de agosto de 2020, por Mariana Novaes._
 
 ![Post](/assets/images/post_inauguracao.jpg)
 
