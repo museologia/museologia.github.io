@@ -2,17 +2,13 @@
 layout: default
 ---
 
-# Primeira postagem
+# Título da postagem
+
+_Publicado em dia de mês de 2020, por Autor._
 
 Editar.
 
 Exemplo de postagem.
-
-# Outra postagem
-
-Outro exemplo de postagem.
-
-# Uma terceira postagem
 
 Uma nova postagem com lista:
 
@@ -32,7 +28,5 @@ Uma tabela **importante**:
 E uma imagem:
 
 ![Post](/assets/images/post_inauguracao.jpg)
-
-# Outros exemplos
 
 Outros exemplos de uso de Markdown disponíveis nesse [link](./exemplos).
