@@ -4,6 +4,8 @@ layout: default
 
 # Sistema COFEM e COREMs
 
+_Publicado em dia de Mês de ano, por Autor._
+
 [Conselho Federal de Museologia (COFEM)](#conselho-federal-de-museologia-(cofem)) | [Conselhos Regionais de Museologia (COREMs)](#conselhos-regionais-de-museologia-(corems)) | [COREM 1R](#corem-1r) | [COREM 2R](#corem-2r) | [COREM 3R](#corem-3r) | [COREM 4R](#corem-4r) | [COREM 5R](#corem-5r)
 
 Vinculados ao Ministério do Trabalho, os Conselhos são os *órgãos de registro do profissional Museólogo e de fiscalização do exercício da profissão*. O COFEM e os COREM's têm sua criação autorizada a partir da publicação da [Lei de Regulamentação da Profissão de Museólogo](http://www.planalto.gov.br/ccivil_03/Leis/L7287.htm){:target="_blank"}. 
