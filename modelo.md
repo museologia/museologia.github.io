@@ -2,11 +2,9 @@
 layout: default
 ---
 
-# Título da postagem
+# Título da página ou postagem
 
-_Publicado em dia de mês de 2020, por Autor._
-
-Editar.
+_Publicado em dia de mês de ano, por Autor._
 
 Exemplo de postagem.
 
