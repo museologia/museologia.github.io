@@ -45,7 +45,7 @@ Nesta página apresentamos informações básicas sobre os cursos de graduação
 - Cidade: Cachoeira
 - Ano de criação: 2006
 - Modalidade de ensino: Presencial
-- Contatos: [Site](https://www.ufrb.edu.br/museologia/){:target="_blank"}, [E-mail](mailto:cahl.ccgm@ufrb.edu.br){:target="_blank"}, [E-mail colegiado](mailto:colegiadodemuseologia@gmail.com){:target="_blank"}
+- Contatos: [Site](https://www.ufrb.edu.br/museologia/){:target="_blank"}, [E-mail](mailto:cahl.ccgm@ufrb.edu.br){:target="_blank"}, [E-mail colegiado](mailto:colegiadodemuseologia@gmail.com){:target="_blank"}, [Instagram](https://www.instagram.com/museologia.ufrb/){:target="_blank"}
 - Telefone: (75) 3425-2561
 
 ### Pernambuco
@@ -106,7 +106,7 @@ Nesta página apresentamos informações básicas sobre os cursos de graduação
 - Cidade: Belo Horizonte
 - Ano de criação: 2010
 - Modalidade de ensino: Presencial
-- Contatos: [Site](https://ufmg.br/cursos/graduacao/2348/87378){:target="_blank"}, [E-mail](mailto:colgradmuseo@eci.ufmg.br){:target="_blank"}
+- Contatos: [Site](https://ufmg.br/cursos/graduacao/2348/87378){:target="_blank"}, [E-mail](mailto:colgradmuseo@eci.ufmg.br){:target="_blank"}, [Instagram](https://www.instagram.com/museologiaufmg/){:target="_blank"}
 - Telefone: (31) 3409-5226
 
 #### Universidade Federal de Ouro Preto – UFOP
