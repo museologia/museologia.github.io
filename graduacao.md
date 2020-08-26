@@ -8,7 +8,7 @@ _Publicado em 23 de Agosto de 2020, por Mariana Novaes._
 
 Nesta página apresentamos informações básicas sobre os cursos de graduação em Museologia do Brasil, organizados por região geográfica e Estado.
 
-[Norte](#região-norte) | [Nordeste](#região-nordeste) | [Centro-Oeste](#região-centro-oeste) | [Sudeste](#região-sudeste) | [Sul](#região-sul) | [Semi Presencial](#semi-presencial)
+[Norte](#região-norte) | [Nordeste](#região-nordeste) | [Centro-Oeste](#região-centro-oeste) | [Sudeste](#região-sudeste) | [Sul](#região-sul) | [Ensino a distância](#ensino-a-distância)
 
 ## Região Norte
 [Voltar ao topo](#graduação)
@@ -174,7 +174,7 @@ Nesta página apresentamos informações básicas sobre os cursos de graduação
 - Contatos: [Site](https://museologia.ufsc.br/){:target="_blank"}, [E-mail](mailto:museologia@contato.ufsc.br){:target="_blank"}, [Instagram](https://www.instagram.com/museologiaufsc/){:target="_blank"}, [Facebook](https://www.facebook.com/MuseoUFSC/){:target="_blank"}, [YouTube](https://www.youtube.com/channel/UCa1Gx3MUY-js-By7NphS5bQ){:target="_blank"}
 - Telefone: (48) 3721-4149
 
-## Semi Presencial
+## Ensino a distância
 [Voltar ao topo](#graduação)
 
 #### Centro Universitário Claretiano – CEUCLAR
@@ -184,4 +184,4 @@ Nesta página apresentamos informações básicas sobre os cursos de graduação
 - Ano de criação: 2019
 - Modalidade de ensino: Semi presencial
 - Contatos: [Site](https://claretiano.edu.br/graduacao/museologia){:target="_blank"}
-- Telefone: -
+- Telefone: (16)3660-1777 ou 0800-9410006
