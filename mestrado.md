@@ -65,7 +65,7 @@ Sem cursos.
 - Cidade: Rio de Janeiro
 - Ano de criação: 2006
 - Modalidade de ensino: Presencial
-- Contatos: [Site](http://www.unirio.br/ppg-pmus/){:target="_blank"}, [E-mail](mailto:coordenacaoppgpmus@unirio.br){:target="_blank"}, [Facebook](https://www.facebook.com/ppgpmus/){:target="_blank"}
+- Contatos: [Site](http://www.unirio.br/ppg-pmus/){:target="_blank"}, [E-mail](mailto:secretariappg-pmus@unirio.br){:target="_blank"}, [Facebook](https://www.facebook.com/ppgpmus/){:target="_blank"}
 - Telefones: (21) 3514-5213, (21) 2542-1031
 
 
