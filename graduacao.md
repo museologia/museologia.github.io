@@ -180,8 +180,8 @@ Nesta página apresentamos informações básicas sobre os cursos de graduação
 #### Centro Universitário Claretiano – CEUCLAR
 - Nome do curso: Museologia
 - Grau: Bacharelado
-- Cidade: Vários municípios
+- Cidade: -
 - Ano de criação: 2019
 - Modalidade de ensino: Semi presencial
 - Contatos: [Site](https://claretiano.edu.br/graduacao/museologia){:target="_blank"}
-- Telefone: (16)3660-1777 ou 0800-9410006
+- Telefone: (16) 3660-1777 ou 0800-9410006
