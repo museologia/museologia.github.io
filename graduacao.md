@@ -182,6 +182,6 @@ Nesta página apresentamos informações básicas sobre os cursos de graduação
 - Grau: Bacharelado
 - Cidade: -
 - Ano de criação: 2019
-- Modalidade de ensino: Semi presencial
+- Modalidade de ensino: Ensino a distância
 - Contatos: [Site](https://claretiano.edu.br/graduacao/museologia){:target="_blank"}
 - Telefone: (16) 3660-1777 ou 0800-9410006
