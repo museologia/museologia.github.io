@@ -121,10 +121,21 @@ Nesta página apresentamos informações básicas sobre os cursos de graduação
 ### Rio de Janeiro
 
 #### Universidade Federal do Estado do Rio de Janeiro – UNIRIO
+
+##### Curso integral
 - Nome do curso: Museologia
 - Grau: Bacharelado
 - Cidade: Rio de Janeiro
 - Ano de criação: 1932
+- Modalidade de ensino: Presencial
+- Contatos: [Site](http://www.unirio.br/cch/museologia/){:target="_blank"}, [E-mail](mailto:cch_museologia@unirio.br){:target="_blank"}
+- Telefone: (21) 2542-3055
+
+##### Curso noturno
+- Nome do curso: Museologia
+- Grau: Bacharelado
+- Cidade: Rio de Janeiro
+- Ano de criação: 2011
 - Modalidade de ensino: Presencial
 - Contatos: [Site](http://www.unirio.br/cch/museologia/){:target="_blank"}, [E-mail](mailto:cch_museologia@unirio.br){:target="_blank"}
 - Telefone: (21) 2542-3055
