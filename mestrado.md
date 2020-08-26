@@ -31,7 +31,7 @@ Sem cursos.
 
 ### Piauí
 
-#### Fundação Universidade Federal do Piauí – FUFPI
+#### Universidade Federal do Piauí - UFPI e Universidade Federal do Delta do Parnaíba - UFDPar
 - Nome do programa: Programa de Pós-Graduação em Artes, Patrimônio e Museologia – PPGAPM
 - Nível: Mestrado Profissional
 - Cidade: Parnaíba
