@@ -91,5 +91,5 @@ Sem cursos.
 - Cidade: Porto Alegre
 - Ano de criação: 2017
 - Modalidade de ensino: Presencial
-- Contatos: [Site](http://www.ufrgs.br/ppgmuspa){:target="_blank"}, [E-mail](mailto:ppgmuspa@ufrgs.br){:target="_blank"}, [Facebook](https://www.facebook.com/ppgmuspaufrgs/){:target="_blank"}, [Instagram](https://www.instagram.com/ppgmuspa/){:target="_blank"}
+- Contatos: [Site](http://www.ufrgs.br/ppgmuspa){:target="_blank"}, [E-mail](mailto:ppgmuspa@ufrgs.br){:target="_blank"}, [Instagram](https://www.instagram.com/ppgmuspa/){:target="_blank"}, [Facebook](https://www.facebook.com/ppgmuspaufrgs/){:target="_blank"}
 - Telefone: (51) 3308-2163
