@@ -152,7 +152,7 @@ Nesta página apresentamos informações básicas sobre os cursos de graduação
 - Ano de criação: 2019
 - Modalidade de ensino: Presencial
 - Contatos: [Site](http://www.embap.pr.gov.br/modules/conteudo/conteudo.php?conteudo=431){:target="_blank"}
-- Telefone: -
+- Telefone: (41) 3017-2051
 
 ### Rio Grande do Sul
 
