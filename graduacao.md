@@ -151,7 +151,7 @@ Nesta página apresentamos informações básicas sobre os cursos de graduação
 - Cidade: Curitiba
 - Ano de criação: 2019
 - Modalidade de ensino: Presencial
-- Contatos: [Site](http://www.embap.pr.gov.br/modules/conteudo/conteudo.php?conteudo=431){:target="_blank"}
+- Contatos: [Site](http://www.embap.pr.gov.br/modules/conteudo/conteudo.php?conteudo=431){:target="_blank"}, [E-mail](mailto:centrodeartes.embap@unespar.edu.br){:target="_blank"}
 - Telefone: (41) 3017-2051
 
 ### Rio Grande do Sul
