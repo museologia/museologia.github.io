@@ -6,7 +6,7 @@ layout: default
 
 _Publicado em 23 de Agosto de 2020, por Mariana Novaes._
 
-![Post inauguracao](/assets/images/post_inauguracao.jpg)
+![Post-inauguracao](/assets/images/post_inauguracao.jpg)
 
 Bem vindos(as)!
 
