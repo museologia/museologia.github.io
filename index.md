@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Inauguração de seção: ONDE ESTUDAR
+# Inauguração de seção: Onde Estudar
 
 _Publicado em 29 de Agosto de 2020, por Mariana Novaes._
 
