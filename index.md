@@ -2,6 +2,36 @@
 layout: default
 ---
 
+# DIVULGAÇÃO! 
+
+## Museu de Arte da UFPR lança _websérie_ durante a 14ª Primavera dos Museus do IBRAM
+
+_Publicado em 24 de Setembro de 2020, por Mariana Novaes._
+
+![Post-divulgacao-webmusa](/assets/images/post_divulgacao_webmusa.jpg)
+
+O [Museu de Arte da Universidade Federal do Paraná – MusA UFPR](http://www.musa.ufpr.br/){:target="_blank"} vem produzindo uma _websérie_ desde o seu fechamento para visitação do público devido ao contexto da pandemia do novo coronavírus.
+
+Intitulada **#WebMusA**, com episódios de duração entre seis e doze minutos cada, a série traz  entrevistas com vários especialistas tratando de assuntos inerentes aos museus. A previsão é que a cada quinze dias seja lançado um episódio, sempre às 16h (horário de Brasília). 
+
+A fim de promover um amplo acesso ao conteúdo produzido, cada episódio será lançado em cinco versões simultâneas: a convencional, com audiodescrição para pessoas cegas e com baixa visão (AD), legendagem descritiva para surdos e ensurdecidos (LSE), Língua Brasileira de Sinais (LIBRAS) e há ainda uma versão em inglês.
+
+Além disso, usando referências da _internet_ e da linguagem dos _memes_ em animações, espera-se cativar um público jovem e pessoas que não têm o hábito de frequentar museus e, assim, instigar um novo público a conhecer o universo dessas instituições tão ricas de cultura e conhecimento.
+
+A exibição das cinco versões do primeiro episódio aconteceu ontem, dia 23 de setembro, no [canal do MusA UFPR no YouTube](https://www.youtube.com/channel/UCY4TpmCYS1SqjSoTxrHNfEw){:target="_blank"}, fazendo parte da programação da [14ª Primavera dos Museus](http://eventos.museus.gov.br/docs/14PRIMUS/guiadaprogamacao.pdf){:target="_blank"} do [Instituto Brasileiro de Museus (IBRAM)](https://www.museus.gov.br/){:target="_blank"}. 
+
+Perdeu a exibição ao vivo? Não tem problema. Ainda é possível assistir o primeiro episódio, intitulado “O que é um Museu?”. Basta escolher a _playlist_ que melhor se adequa às suas preferências: [convencional](https://www.youtube.com/playlist?list=PLxWAh5LoeTMctg_6V8aSCmmoxUTqXVXqH){:target="_blank"}, com [AD](https://www.youtube.com/playlist?list=PLxWAh5LoeTMdY8KHmlyQ0xB1f1fSXY102){:target="_blank"}, com [LSE](https://www.youtube.com/playlist?list=PLxWAh5LoeTMfMG254ZD2GIDPym000TV7r){:target="_blank"}, com [tradução em LIBRAS](https://www.youtube.com/playlist?list=PLxWAh5LoeTMce1fB40QG4fcW6PRwBtN2o){:target="_blank"} ou com [legenda em inglês](https://www.youtube.com/playlist?list=PLxWAh5LoeTMfBYd-GYuXrlcICxWWeLK_Y){:target="_blank"}.
+
+Lembre-se de se inscrever no canal do MusA UFPR e ativar o lembrete de notificações para se programar para a estreia ao vivo do episódio 2, que tratará sobre os trabalhos dos museus durante o contexto da pandemia.
+
+Conheça a equipe e as atividades do MusA UFPR:
+- [Site](http://www.musa.ufpr.br/){:target="_blank"}
+- [Facebook](https://www.facebook.com/MuseudeArtedaUFPR/){:target="_blank"}
+- [Instagram](https://www.instagram.com/museudeartedaufpr/){:target="_blank"}
+- [YouTube](https://www.youtube.com/channel/UCY4TpmCYS1SqjSoTxrHNfEw){:target="_blank"}
+
+---
+
 # Inauguração de seção: Onde Estudar
 
 _Publicado em 29 de Agosto de 2020, por Mariana Novaes._
