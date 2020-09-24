@@ -30,6 +30,10 @@ Conheça a equipe e as atividades do MusA UFPR:
 - [Instagram](https://www.instagram.com/museudeartedaufpr/){:target="_blank"}
 - [YouTube](https://www.youtube.com/channel/UCY4TpmCYS1SqjSoTxrHNfEw){:target="_blank"}
 
+Siga nossas redes sociais para acompanhar as próximas novidades:
+- [Facebook](https://www.facebook.com/PortaldaMuseologia/){:target="_blank"}
+- [Instagram](https://www.instagram.com/portaldamuseologia/){:target="_blank"}
+
 ---
 
 # Inauguração de seção: Onde Estudar
